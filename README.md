@@ -1,6 +1,6 @@
 ### Hi there, I am Vlad 👋
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=Vlaaadu10&hide_title=true&show_icons=true&count_private=true&hide=stars&hide_border=true" alt="stats">
+![Statistics GitHub](https://github-readme-stats.vercel.app/api?username=Vlaaadu10&show_icons=true&theme=radical)
 
 - In love with open-source, git, docker
 - Software Engineer with a sprinkle of Security and Networking on the side
