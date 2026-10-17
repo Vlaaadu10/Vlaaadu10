@@ -1,9 +1,9 @@
 ### Hi there, I am Vlad 👋
 
 <p align="left">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Vlaaadu10&show_icons=true&theme=radical" alt="Vlad's GitHub Stats" />
+  <img src="[https://github-readme-stats-sigma-five.vercel.app/api](https://github-readme-stats-beta-ten-90.vercel.app/)?username=Vlaaadu10&show_icons=true&theme=radical" alt="Vlad's GitHub Stats" />
   <br/>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Vlaaadu10&layout=compact&theme=radical" alt="Most Used Languages" />
+  <img src="[https://github-readme-stats-sigma-five.vercel.app/api/top-langs/](https://github-readme-stats-beta-ten-90.vercel.app/)?username=Vlaaadu10&layout=compact&theme=radical" alt="Most Used Languages" />
 </p>
 
 - 🚀 In love with open-source, git, docker
